@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">AppEstudiante</string>
+ <string name="titulo">Registra Tus Datos</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="sexo">Sexo</string>
+    <string name="varon">Varon</string>
+    <string name="mujer">Mujer</string>
+    <string name="Materias">Materias que te gustan</string>
+
+    <string name="m1">Calculo</string>
+    <string name="m2">Fisica</string>
+    <string name="m3">Quimica</string>
+    <string name="m4">Estadistica</string>
+    <string name="m5">Programacion</string>
+    <string name="m6">Otros</string>
+    <string name="ci">Cedula</string>
+    <string name="cel">Numero Cel.</string>
+    <string name="dom">Domicilio</string>
+    <string name="co">Correo</string>
+ <string name="hecho">Registro</string>
+
+
+</resources>
